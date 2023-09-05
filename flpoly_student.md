@@ -1,27 +1,27 @@
 ## Kouame KOFFI
 
-### Term Year 
+### Fall 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- 
+- Object Oriented Programming
 
-- Course 2
+- Foundation of Data Science
 
-- Course 3
+- Statistics
 
-- Course 4
+- Linear Algebra
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video game
 
-- Thing 2
+- Soccer
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/09/05
