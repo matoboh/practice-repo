@@ -20,7 +20,7 @@ I am _passionate about_:
 
 - Soccer
 
--Swimming
+- Swimming
 
 ***
 
