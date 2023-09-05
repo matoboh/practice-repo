@@ -1,10 +1,10 @@
-## First Name Last Name
+## Kouame KOFFI
 
 ### Term Year 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- 
 
 - Course 2
 
