@@ -4,13 +4,10 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Object Oriented Programming
+| Prefix  |  number  |                 Name                  | Credits |
+|:-------:|:--------:|:-------------------------------------:|:-------:|
+| **COP** | **2073** | _Foundations of Data Science_         |    3    |
 
-- Foundation of Data Science
-
-- Statistics
-
-- Linear Algebra
 
 **Hobbies:**
 
