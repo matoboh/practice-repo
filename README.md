@@ -18,3 +18,4 @@ _This is an introductory exercise to practice your Markdown and git skills. Make
 ***
 
 > **Foundations of Data Analytics**
+![screenshot_flpoly](https://github.com/reisanar/practice-repo/assets/143537400/21e25b0f-1404-415b-a522-5145b992f2ec)
